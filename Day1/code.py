@@ -11,7 +11,7 @@ print(1000)
 
 #Printing multiple lines
 print("Day 1")
-print("I have started my 21 day learning journey today with my friends and mates")
+print("I have started my 21 days learning journey today with my friends and mates")
 
 #Simple star pattern
 print("*")

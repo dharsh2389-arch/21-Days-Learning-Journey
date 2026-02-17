@@ -1,1 +1,12 @@
-
+Hello World
+I am Dharshini
+Welcome to Python Learning
+5
+1000
+Day 1
+I have started my 21 days learning journey today with my friends and mates
+*
+**
+***
+****
+*****

@@ -1,0 +1,10 @@
+#Output
+
+Name: Dharshini
+Age: 19
+Marks: 98
+Student: True
+<class 'str'>
+<class 'int'>
+<class 'float'>
+<class 'bool'>

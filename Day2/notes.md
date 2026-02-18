@@ -17,7 +17,7 @@ tpe() is a function used to check the data type of a variable.
 Example:
 x=10
 print(type(x))
-Output: class <int>
+Output: <class 'int'>
 
 Rules for variable names:
 -> Must start with a letter or underscore.

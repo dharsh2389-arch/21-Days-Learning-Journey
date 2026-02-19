@@ -1,0 +1,6 @@
+#Temperature Calculator
+
+*** Temperature Converter ***
+Enter temperature in Celsius: 25
+Temperature in Fahrenheit: 77.0
+Is it a hot day? False

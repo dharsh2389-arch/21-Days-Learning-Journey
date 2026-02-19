@@ -7,3 +7,5 @@ Common type conversion:
 
 Example: 
 age=int(input("Enter your age: "))
+
+Today, I learned Temperature calculator, BMI calculator and Simple Interest Calculator only using Type Conversion

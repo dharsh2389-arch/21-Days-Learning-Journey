@@ -1,0 +1,12 @@
+#BMI Calculator
+
+Enter weight in kg: 60
+Enter height in meters: 1.65
+Your BMI is: 22.04
+
+#Simple Interest Calculator 
+
+Enter principal amount: 10000
+Enter rate of interest: 5
+Enter time in years: 2
+Simple Interest is: 1000.0

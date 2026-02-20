@@ -1,0 +1,15 @@
+#Hospital Billing System
+
+=== Hospital Billing System ===
+Enter Doctor Consultation Fee: 2500
+Enter Room Charge Per Day: 2000
+Enter Number of Days Stayed: 6
+Enter Lab Test Charges: 5000
+Enter Medicine Charges: 6000
+
+--- Billing Summary ---
+Subtotal: 25500.0
+GST: 3060.0
+Total Bill: 28560.0
+Insurance Cover: 5712.0
+Final Amount Payable: 22848.0

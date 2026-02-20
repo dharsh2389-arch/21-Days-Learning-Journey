@@ -1,0 +1,23 @@
+#Shopping Mall Billing System
+
+=== Shopping Mall Billing System ===
+Enter Customer Name: Dharshini
+Enter Price of Item 1: 500
+Enter Quantity of Item 1: 2
+Enter Price of Item 2: 200
+Enter Quantity of Item 2: 3
+Enter Price of Item 3: 700
+Enter Quantity of Item 3: 1
+
+--- Billing Summary ---
+Customer Name: Dharshini
+Subtotal: 2300.0
+
+GST: 115.0
+Service Tax: 230.0
+City Tax: 46.0
+Packaging Charge: 100
+
+Total Before Discount: 2791.0
+Discount: 139.55
+Final Amount Payable: 2651.45

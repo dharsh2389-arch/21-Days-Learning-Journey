@@ -1,0 +1,13 @@
+#Electricity Billing System
+
+=== Electricity Billing System ===
+Enter Customer Name: Dharshini
+Enter Units Consumed: 350
+
+--- Electricity Bill ---
+Customer Name: Dharshini
+Units Consumed: 350.0
+Basic Amount: 2100.0
+Tax: 105.0
+Meter Charge: 150
+Total Bill: 2355.0

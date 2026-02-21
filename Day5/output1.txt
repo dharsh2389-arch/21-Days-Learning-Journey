@@ -1,0 +1,5 @@
+Scholarship Eligibility Analyzer
+Enter student's marks in percentage: 50
+Enter Family's Annual income: 450000
+Enter Category (general/obc/sc/st): general
+Status: Not Eligible

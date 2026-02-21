@@ -35,4 +35,4 @@ else:
 4. Nested if:
 An if inside another if.
 
-Today, I have learned Scholarship Eligibility Analyzer and Placement Eligibility System using the concept of Conditional Statements.
+Today, I have learned Conditional Statements and designed Scholarship Eligibility Analyzer and Placement Eligibility System using the concept of Conditional Statements.

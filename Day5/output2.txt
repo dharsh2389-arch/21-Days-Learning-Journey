@@ -1,0 +1,8 @@
+Placement Eligibility System
+
+Enter your Name: Dharshini
+Enter 10th Mark in Percentage: 88
+Enter 12th Mark in Percentage: 91.67
+Enter Current CGPA: 9.44
+Enter Number of Arrears: 0
+Status: Eligible for Dream Company

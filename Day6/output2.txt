@@ -1,0 +1,20 @@
+Inventory Stock Monitoring System
+
+Enter Initial Stock: 500
+Enter Items Sold on Day 1: 30
+Remaining Stock after Day 1 : 470
+Enter Items Sold on Day 2: 25
+Remaining Stock after Day 2 : 445
+Enter Items Sold on Day 3: 100
+Remaining Stock after Day 3 : 345
+Enter Items Sold on Day 4: 65
+Remaining Stock after Day 4 : 280
+Enter Items Sold on Day 5: 88
+Remaining Stock after Day 5 : 192
+Enter Items Sold on Day 6: 94
+Remaining Stock after Day 6 : 98
+Enter Items Sold on Day 7: 63
+Remaining Stock after Day 7 : 35
+
+Final Stock: 35
+Stock Level Sufficient

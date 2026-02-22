@@ -25,3 +25,4 @@ Syntax:
 while condition:
     statement
 
+Today, I have learned the concept of looping in python and I have solved two problems: Mini Banking Transaction System, Inventory Stock  Monitoring System using loop.

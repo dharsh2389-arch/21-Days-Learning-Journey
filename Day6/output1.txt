@@ -1,0 +1,35 @@
+Mini Banking Transaction System
+
+Enter your name: Dharshini
+Enter your Account Number: 1234567890
+Enter Initial Balance: 20000
+
+Transaction 1
+Enter Deposit Amount: 3000
+Enter Withdrawal Amount: 6000
+Current Balance: 17000.0
+
+Transaction 2
+Enter Deposit Amount: 400
+Enter Withdrawal Amount: 2000
+Current Balance: 15400.0
+
+Transaction 3
+Enter Deposit Amount: 1000
+Enter Withdrawal Amount: 8000
+Current Balance: 8400.0
+
+Transaction 4
+Enter Deposit Amount: 4000
+Enter Withdrawal Amount: 9000
+Current Balance: 3400.0
+
+Transaction 5
+Enter Deposit Amount: 5000
+Enter Withdrawal Amount: 300
+Current Balance: 8100.0
+
+Name: Dharshini
+Account Number: 1234567890
+Final Balance: 8100.0
+Status: Account Safe

@@ -1,0 +1,4 @@
+Password Strength Checker
+
+Enter your password: Dharshini2389@64
+It is a Strong Password

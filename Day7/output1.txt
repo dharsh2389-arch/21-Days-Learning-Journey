@@ -1,0 +1,5 @@
+Email Validator System
+
+Enter your email id: dharsh2389@gmail.com
+Email is valid
+Email: dharsh2389@gmail.com

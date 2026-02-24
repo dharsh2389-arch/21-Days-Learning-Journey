@@ -29,4 +29,4 @@ max()      → Maximum value
 min()      → Minimum value
 sum()      → Sum of elements
 
-Today, I have learned the concepts of lists and common list methods in python. I have solved two problems: 1. Student Mark Analyzer, 2. Shopping Cart System.
+Today, I have learned the concepts of lists and common list methods in python. I have solved three problems: 1. Student Mark Analyzer, 2. Shopping Cart System, 3. Student Database Management System.

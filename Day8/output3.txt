@@ -1,0 +1,12 @@
+Student Database Management System
+
+Students: ['Dharshini', 'Reena', 'Meena', 'Teena']
+After Inserting Transfer Student: ['Dharshini', 'Reena', 'Priya', 'Meena', 'Teena']
+After Removing Discontinued Student: ['Dharshini', 'Reena', 'Priya', 'Teena']
+After Removing Last Student: ['Dharshini', 'Reena', 'Priya']
+Total Students: 3
+First Student: Dharshini
+Last Student: Priya
+Sorted Student List: ['Dharshini', 'Priya', 'Reena']
+Reversed Student List: ['Reena', 'Priya', 'Dharshini']
+Student Database After Clear: []

@@ -1,0 +1,10 @@
+Shopping Cart System
+
+Enter the price of the item 1: 64
+Enter the price of the item 2: 170
+Enter the price of the item 3: 97
+Enter the price of the item 4: 275
+Enter the price of the item 5: 75
+Total Price:  681.0
+Highest Price:  275.0
+Lowest Price:  64.0

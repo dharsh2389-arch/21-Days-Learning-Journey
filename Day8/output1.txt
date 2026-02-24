@@ -1,0 +1,12 @@
+Student Mark Analyzer
+
+Enter the mark for subject 1:88
+Enter the mark for subject 2:95
+Enter the mark for subject 3:76
+Enter the mark for subject 4:98
+Enter the mark for subject 5:100
+Marks:  [88.0, 95.0, 76.0, 98.0, 100.0]
+Total marks:  457.0
+Average marks:  91.4
+Highest mark:  100.0
+Lowest mark:  76.0

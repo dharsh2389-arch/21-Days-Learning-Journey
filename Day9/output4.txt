@@ -1,0 +1,10 @@
+College Course Enrollment System
+
+Student Records:
+(101, 'Dharshini', 'ECE')
+(102, 'Reena', 'CSE')
+(103, 'Meena', 'IT')
+Python Course Students: {'Reena', 'Dharshini', 'Meena'}
+Java Course Students: {'Meena', 'Dharshini'}
+Students in Both Courses: {'Meena', 'Dharshini'}
+Total Unique Enrolled Students: 3

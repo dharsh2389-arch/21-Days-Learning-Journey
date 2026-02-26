@@ -1,0 +1,21 @@
+Bank Customer Management System
+
+Customer Record: {'account_number': 1234567890, 'name': 'Dharshini', 'balance': 15000, 'branch': 'Nagercoil'}
+
+After Deposit: {'account_number': 1234567890, 'name': 'Dharshini', 'balance': 20000, 'branch': 'Nagercoil'}
+
+Customer Name: Dharshini
+
+Keys: dict_keys(['account_number', 'name', 'balance', 'branch'])
+
+Values: dict_values([1234567890, 'Dharshini', 20000, 'Nagercoil'])
+
+Items: dict_items([('account_number', 1234567890), ('name', 'Dharshini'), ('balance', 20000), ('branch', 'Nagercoil')])
+
+After Update: {'account_number': 1234567890, 'name': 'Dharshini', 'balance': 20000, 'branch': 'Nagercoil', 'account_type': 'Savings'}
+
+After Removing Branch: {'account_number': 1234567890, 'name': 'Dharshini', 'balance': 20000, 'account_type': 'Savings'}
+
+Total Fields: 4
+
+After Clearing Record: {}

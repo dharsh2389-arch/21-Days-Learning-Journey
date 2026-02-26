@@ -1,0 +1,15 @@
+Student Details: {'name': 'Dharshini', 'age': 18, 'department': 'ECE'}
+
+Name: Dharshini
+
+Updated Age: 19
+
+After Adding College: {'name': 'Dharshini', 'age': 19, 'department': 'ECE', 'college': 'Sathyabama'}
+
+Keys: dict_keys(['name', 'age', 'department', 'college'])
+
+Values: dict_values(['Dharshini', 19, 'ECE', 'Sathyabama'])
+
+Items: dict_items([('name', 'Dharshini'), ('age', 19), ('department', 'ECE'), ('college', 'Sathyabama')])
+
+After Removing Department: {'name': 'Dharshini', 'age': 19, 'college': 'Sathyabama'}

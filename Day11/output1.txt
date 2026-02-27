@@ -1,0 +1,5 @@
+Welcome to Python Learning
+Addition: 30
+Multiplication: 20
+Square: 36
+Cube: 216

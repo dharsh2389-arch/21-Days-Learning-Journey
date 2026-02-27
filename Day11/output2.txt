@@ -1,0 +1,7 @@
+Original Array: [10, 20, 30, 40, 50]
+After Append: [10, 20, 30, 40, 50, 60]
+After Remove: [10, 30, 40, 50, 60]
+Length: 5
+Maximum: 60
+Minimum: 10
+Sum: 190

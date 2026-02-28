@@ -1,0 +1,53 @@
+Movie Ticket Booking System
+
+1. Show Movies
+2. Book Ticket
+3. Exit
+Enter choice: 1
+
+Available Movies:
+Leo - Price: 200 - Seats: 50
+Jailer - Price: 150 - Seats: 40
+Vikram - Price: 180 - Seats: 30
+
+1. Show Movies
+2. Book Ticket
+3. Exit
+Enter choice: 2
+Enter movie name: Leo
+Enter number of tickets: 50
+Booking Successful
+Total Cost: 10000
+
+1. Show Movies
+2. Book Ticket
+3. Exit
+Enter choice: 2
+Enter movie name: Jailer
+Enter number of tickets: 35
+Booking Successful
+Total Cost: 5250
+
+1. Show Movies
+2. Book Ticket
+3. Exit
+Enter choice: 1
+
+Available Movies:
+Leo - Price: 200 - Seats: 0
+Jailer - Price: 150 - Seats: 5
+Vikram - Price: 180 - Seats: 30
+
+1. Show Movies
+2. Book Ticket
+3. Exit
+Enter choice: 3
+
+Final Summary
+Total Revenue: 15250
+Most Popular Movie: Leo
+
+Remaining Seats:
+Leo : 0
+Jailer : 5
+Vikram : 30

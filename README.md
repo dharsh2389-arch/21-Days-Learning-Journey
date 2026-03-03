@@ -10,3 +10,7 @@ Day 8 - Lists
 Day 9 - Tuples and Sets 
 Day 10 - Dictionary
 Day 11 - Functions
+Day 12 - Practice problems
+Day 13 - OOPS
+Day 14 - OOPS
+Day 15 - File Handling

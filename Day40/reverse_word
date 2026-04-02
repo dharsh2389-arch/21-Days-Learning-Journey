@@ -1,0 +1,10 @@
+s = input("Enter a sentence: ")
+words = s.split()
+reversed = words[::-1]
+print("Reversed sentence:", " ".join(reversed))
+
+'''
+Output
+Enter a sentence: I love Python
+Reversed sentence: Python love I
+'''
